@@ -117,7 +117,7 @@ class Requirement
  */
 class BackBeeRequirements
 {
-    const REQUIRED_PHP_VERSION = '5.4.0';
+    const REQUIRED_PHP_VERSION = '5.6.0';
 
     /**
      * @return array
